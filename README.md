@@ -6,13 +6,13 @@ This tool is designed for researchers and security analysts who want to map and 
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This project is a fork of the original [ollama-hunter](https://github.com/saadi1995/ollama-hunter) project by [saadi1995](https://github.com/saadi1995). While this version has been modified and disconnected from the original fork network, we gratefully acknowledge the foundational work of the original author.
 
 ---
 
-## ✨ Features
+## Features
 
 -   **Web-Based Management**: A fully interactive web UI to run discovery scans, refresh host data, and view results.
 -   **Interactive Data Table**: View all live hosts in a clean, sortable, and filterable table.
@@ -24,7 +24,7 @@ This project is a fork of the original [ollama-hunter](https://github.com/saadi1
 
 ---
 
-## 🚀 Setup and Usage
+## Setup and Usage
 
 ### 1. Environment Setup
 
